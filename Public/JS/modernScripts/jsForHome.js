@@ -7,19 +7,19 @@ function support() {
 }
 
 function screenshot1() { 
-    window.open("/www/Public/IMG/screen1.png", "screenshot1", "width=800,height=600,resizable=yes,scrollbars=yes"); 
+    window.open("/Public/IMG/screen1.png", "screenshot1", "width=800,height=600,resizable=yes,scrollbars=yes"); 
 }
 
 function screenshot2() { 
-    window.open("/www/Public/IMG/screen2.png", "screenshot2", "width=800,height=600,resizable=yes,scrollbars=yes"); 
+    window.open("/Public/IMG/screen2.png", "screenshot2", "width=800,height=600,resizable=yes,scrollbars=yes"); 
 }
 
 function screenshot3() { 
-    window.open("/www/Public/IMG/screen3.png", "screenshot3", "width=800,height=600,resizable=yes,scrollbars=yes"); 
+    window.open("/Public/IMG/screen3.png", "screenshot3", "width=800,height=600,resizable=yes,scrollbars=yes"); 
 }
 
 function screenshot4() { 
-    window.open("/www/Public/IMG/screen4.png", "screenshot4", "width=800,height=600,resizable=yes,scrollbars=yes"); 
+    window.open("/Public/IMG/screen4.png", "screenshot4", "width=800,height=600,resizable=yes,scrollbars=yes"); 
 }
 
 const sidebar = document.getElementById('m3Sidebar');

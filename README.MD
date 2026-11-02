@@ -5,7 +5,7 @@
       - file, You can obtain one at http://mozilla.org/MPL/2.0/.
       -->
    <!-- TODO: Get a job -->
-   <img src="/www/Public/ICO/a.png" width="100px" align="left">
+   <img src="/Public/ICO/a.png" width="100px" align="left">
    
    ### `Hypnosis Games Website`
    
